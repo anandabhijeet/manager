@@ -1,0 +1,47 @@
+.custom-nav{
+    background-color: #c1f5d9 !important;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.navbar-item{
+    
+    display: flex;
+    padding: 0px 30px 0px 0px;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.add-button{
+    height: 32px;
+    width: 32px;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin-right: 25px;
+}
+
+.add-button i{
+    color: #198754;
+    font-size: 15px;
+}
+
+.greetings{display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap
+}
+
+.greetings h1{
+    font-weight: 800;
+    color: #198754;
+}
+
+.employee-name{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}

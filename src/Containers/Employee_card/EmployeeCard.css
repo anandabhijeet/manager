@@ -1,0 +1,28 @@
+.card-shadow{
+    box-shadow: rgba(2, 84, 3, 0.35) 0px 5px 15px;
+}
+
+.buttons-container{
+    
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.icon-button{
+    margin: 0px;
+    padding: 3px; 
+    height: 30px;
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.icon-button:hover{
+    border-radius: 50%;
+    background-color:#c1f5d9;
+    color: #198754;
+    
+}
